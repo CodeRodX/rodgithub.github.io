@@ -59,7 +59,7 @@ Java, Python, T24, Git, Github Copilot, Weblogic, Oracle Service Bus, Oracle SOA
 
 ## Soft Skills
 
-Communication, 
+Team Leadership, Cross-functional Team Management, Multicultural Team Leadership, People Development & Mentoring, Coaching & Empowerment, Team Building, Performance Management 
 
 ## Education
 
