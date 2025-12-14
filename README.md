@@ -144,19 +144,6 @@ Delivered multiple digital transformation projects for financial institutions an
 
 ---
 
-## 🏆 Key Achievements
-
-- 👨‍👩‍👧‍👦 **Family** - Father of two amazing daughters, partner to the most beautiful woman
-- 💪 **Perseverance** - Led Bolivia's largest banking transformation project through challenging national circumstances
-- 🚀 **Innovation** - Built and led the development team for the Operations Factory at Bolivia's largest bank
-- 🙏 **Community** - AWANA International Club Director for 5+ years
-
----
-
-<div align="center">
-
-**Available for opportunities in:** Engineering Management | Technical Leadership | Digital Transformation
-
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 </div>
