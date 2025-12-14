@@ -2,8 +2,8 @@
 Engineering Manager | Java/Python Backend | Core Banking (T24) | Technical Leadership | 17+ years Banking
 
 <div id="webaddress">
-<a href="coderodx@gmail.com">coderodx@gmail.com</a>
-| <a href="[http://en.wikipedia.org/wiki/Isaac_Newton](https://github.com/CodeRodX/rodgithub.github.io/blob/main/README.md)">My wikipedia page</a>
+  <a href="mailto:coderodx@gmail.com">coderodx@gmail.com</a>
+| <a href="https://github.com/CodeRodX/rodgithub.github.io/blob/main/README.md">My wikipedia page</a>
 </div>
 
 
@@ -39,7 +39,7 @@ PROCESS AUTOMATION - Led multiple enterprise automation initiatives using Qflow:
 - Implementation of automated access request workflow for banking systems
 
 
-`Senior Consultant [October 2020 - December 2022]` at Intersoft, La Paz
+`Senior Consultant [October 2005 - December 2008]` at Intersoft, La Paz
 AUTOMATION AND DEVELOPMENT CONSULTANT
 
 Participated in multiple digital transformation projects for financial institutions and insurance companies in Bolivia:
