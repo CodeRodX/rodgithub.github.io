@@ -3,7 +3,7 @@ Engineering Manager | Java/Python Backend | Core Banking (T24) | Technical Leade
 
 <div id="webaddress">
   <a href="mailto:coderodx@gmail.com">coderodx@gmail.com</a>
-| <a href="https://github.com/CodeRodX/rodgithub.github.io/blob/main/README.md">My wikipedia page</a>
+| <a href="https://github.com/CodeRodX/rodgithub.github.io/blob/main/README.md">My Github</a>
 </div>
 
 
